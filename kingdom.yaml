@@ -1,0 +1,8 @@
+name: hodosme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: A natural language seen as a collective walk of countless speakers over generations toward meaning, received as a gift before anyone alive adds to it.
+dependsOn: [youspeak, me, xeniame, noesisme]
